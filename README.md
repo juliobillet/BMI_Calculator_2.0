@@ -1,4 +1,4 @@
-# BM_Calculator_2.0
+# BMI_Calculator_2.0
 BMI Calculator 2.0
 
 BMI (Body Mass Index) Calculator 2.0
